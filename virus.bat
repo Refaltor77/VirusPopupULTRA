@@ -1,5 +1,7 @@
 @echo off
 :main
-echo 'salut'
+start
+start
+start
 start
 goto :main
